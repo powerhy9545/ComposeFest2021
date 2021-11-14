@@ -43,7 +43,9 @@ class MainActivity : ComponentActivity() {
                     //Greeting("Android")
                     //LayoutsCodelab()
                     //ImageList()
+
                     TwoTexts(text1 = "Hi", text2 = "there")
+
                 }
             }
         }
